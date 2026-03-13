@@ -4,9 +4,9 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-03-12
 > **Finalized:** —
 
 PhilaCon Valley is a community for Black, Brown, LGBTQIA+, and underrepresented technologists in Philadelphia. We bring together engineers, designers, founders, and the tech-curious to learn, build, and belong together.

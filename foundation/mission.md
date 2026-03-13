@@ -1,9 +1,9 @@
 # Mission
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-03-12
 > **Finalized:** —
 
 PhilaCon Valley exists to make Philadelphia the tech hub it's meant to be — built by us, for us.

@@ -1,9 +1,9 @@
 # Community Values
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-03-12
 > **Finalized:** —
 
 Values aren't just words on a page — they're how we act when no one is watching and how we hold each other when things get hard. These are the values that define PhilaCon Valley.

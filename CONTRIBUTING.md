@@ -1,9 +1,9 @@
 # Contributing to the PhilaCon Valley Community Handbook
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-03-12
 > **Finalized:** —
 
 First — thank you for wanting to contribute. This handbook belongs to the community, and the best version of it is one that reflects many voices, not just the organizers'.

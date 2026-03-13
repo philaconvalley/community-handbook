@@ -1,9 +1,9 @@
 # Event Philosophy
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-03-12
 > **Finalized:** —
 
 Our events are not networking nights. They are not pitch competitions or resume drops. They are gatherings — spaces where people who build things come together to learn, make, connect, and feel at home.

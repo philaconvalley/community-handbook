@@ -1,9 +1,9 @@
 # Builder Philosophy
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-03-12
 > **Finalized:** —
 
 At PhilaCon Valley, "builder" isn't a job title. It's a posture.

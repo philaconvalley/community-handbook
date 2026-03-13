@@ -1,9 +1,9 @@
 # Governance
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-03-12
 > **Finalized:** —
 
 PhilaCon Valley is community-stewarded. That means governance is kept lightweight, transparent, and open to evolution as the community grows. But lightweight doesn't mean undefined — it means we write down how things work so that trust is built on clarity, not assumption.
