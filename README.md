@@ -57,7 +57,13 @@ Communities grow quickly. Writing down our philosophy helps protect the culture 
 
 This handbook belongs to the community. If you have a suggestion, a correction, or something you think is missing — we want to hear it.
 
+**You don't need to be a developer to contribute.** If you can read a document and have a thought about it, you can help. Look for issues labeled `good first issue` to get started.
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to get involved.
+
+## Code of Conduct
+
+All participants are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). PhilaCon Valley is committed to providing a welcoming, safe, and inclusive space for everyone.
 
 ---
 
