@@ -2,6 +2,8 @@
 
 ![Status: Draft](https://img.shields.io/badge/status-draft-yellow)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Good First Issues](https://img.shields.io/github/issues/philaconvalley/community-handbook/good%20first%20issue?color=7057ff&label=good%20first%20issues)
 
 > **Status:** Draft — open for community input
 > **Authored by:** Waskar Paulino
