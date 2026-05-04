@@ -73,3 +73,9 @@ All participants are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md
 - [Meetup](https://www.meetup.com/philaconvalley/)
 - [Luma](https://lu.ma/philaconvalley)
 - [LinkedIn](https://www.linkedin.com/company/philaconvalley/)
+
+## Acknowledgments
+
+Thank you to all the community members who have contributed to this handbook through feedback, discussions, and pull requests. This is a living document shaped by the PhilaCon Valley community.
+
+If you've contributed and would like to be recognized, please open a pull request to add your name to this section.
