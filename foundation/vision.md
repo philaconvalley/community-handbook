@@ -60,7 +60,7 @@ We believe accountability is how trust survives disagreement.
 We own our mistakes. We say so when we get it wrong.
 We keep it open.
 
-We believe AI amplifies the builder — it doesn't replace them.
+We believe technology amplifies the builder — it doesn't replace them.
 The craft, the judgment, the care for the person on the other side
 of what we build: that stays human.
 
