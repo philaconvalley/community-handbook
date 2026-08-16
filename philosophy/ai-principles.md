@@ -3,7 +3,7 @@
 > **Status:** Draft — open for community input
 > **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** 2026-03-12
+> **Last Reviewed:** 2026-08-15
 > **Finalized:** —
 
 AI is part of the landscape now. It's in our tools, our workflows, and increasingly in the products we create. At PhilaCon Valley, we don't shy away from it — but we don't center our identity on it either. AI is one of many things our members build with, think about, and learn from. It's part of the conversation, not the whole conversation.

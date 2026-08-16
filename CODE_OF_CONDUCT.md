@@ -24,11 +24,15 @@ PhilaCon Valley is a community for Black, Brown, LGBTQIA+, and underrepresented 
 
 ## Scope
 
-This Code of Conduct applies in all PhilaCon Valley community spaces — GitHub, events, Slack, social media, and anywhere someone is representing the community.
+This Code of Conduct applies in all PhilaCon Valley community spaces — GitHub, events, Discord, social media, and anywhere someone is representing the community.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to community leaders at **waskar@philaconvalley.com**. All complaints will be reviewed and investigated promptly and fairly. Community leaders are obligated to respect the privacy and security of the reporter.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to any PhilaCon Valley team member — in person, through Discord, or by email at **waskar@philaconvalley.com**. You'll hear back within 48 hours confirming your report was received and is being reviewed. All complaints will be reviewed and investigated promptly and fairly, and the team respects the privacy and security of the reporter.
+
+**If the report is about a team member**, that person is recused from every part of handling it — listening, deciding, and communicating the outcome. If the report is about the Founder and Executive Director, the other team members handle it directly, without the Founder involved in any part of the process.
+
+For the full reporting and enforcement process, including what happens step by step after a report comes in, see [Community Guidelines](governance/community-guidelines.md).
 
 ### Consequences
 

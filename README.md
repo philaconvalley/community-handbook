@@ -6,7 +6,7 @@
 > **Status:** Draft — open for community input
 > **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** 2026-03-12
+> **Last Reviewed:** 2026-08-15
 > **Finalized:** —
 
 PhilaCon Valley is a community for Black, Brown, LGBTQIA+, and underrepresented technologists in Philadelphia. We bring together engineers, designers, founders, and the tech-curious to learn, build, and belong together.
@@ -35,15 +35,16 @@ This handbook is the source of truth for our philosophy, values, and culture —
 
 ## Where Documentation Lives
 
-PhilaCon Valley uses a three-layer documentation model:
+PhilaCon Valley uses a four-layer documentation model:
 
 | Layer | What lives here |
 |---|---|
 | **GitHub (this repo)** | Core philosophy, values, principles, governance — the source of truth |
+| **Discord** | Day-to-day community — conversation, events, questions, belonging |
 | **Google Drive** | Internal operations: event planning, meeting notes, outreach, strategy |
 | **Website** | Public-facing storytelling: mission, community overview, event info |
 
-If you're looking for working documents or event logistics, check Google Drive. If you're looking for what PhilaCon Valley fundamentally believes and how it operates, you're in the right place.
+If you're looking for working documents or event logistics, check Google Drive. If you're looking to talk to people, join the [Discord](https://discord.gg/WvCB6yxWJD). If you're looking for what PhilaCon Valley fundamentally believes and how it operates, you're in the right place.
 
 ---
 
@@ -59,7 +60,7 @@ This handbook belongs to the community. If you have a suggestion, a correction, 
 
 **You don't need to be a developer to contribute.** If you can read a document and have a thought about it, you can help. Look for issues labeled `good first issue` to get started.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to get involved.
+See [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to get involved. See [CHANGELOG.md](CHANGELOG.md) for a history of what's changed in this handbook.
 
 ## Code of Conduct
 
@@ -70,6 +71,7 @@ All participants are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md
 ## Connect
 
 - [Website](https://www.philaconvalley.com/)
+- [Discord](https://discord.gg/WvCB6yxWJD)
 - [Meetup](https://www.meetup.com/philaconvalley/)
 - [Luma](https://lu.ma/philaconvalley)
 - [LinkedIn](https://www.linkedin.com/company/philaconvalley/)

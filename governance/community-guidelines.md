@@ -1,9 +1,9 @@
 # Community Guidelines
 
 > **Status:** Draft — open for community input
-> **Authored by:** —
+> **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** —
+> **Last Reviewed:** 2026-08-15
 > **Finalized:** —
 
 PhilaCon Valley is built on a simple promise: everyone who walks through the door — physically or digitally — belongs here. These guidelines exist to protect that promise. They apply everywhere the community gathers: in-person events, online channels, collaborative projects, and any space that carries the PhilaCon Valley name.
@@ -94,11 +94,11 @@ Our events are built to be spaces of belonging. That takes everyone's participat
 
 If you experience or witness behavior that violates these guidelines, we want to know. You have several options:
 
-**Talk to an organizer directly.** At in-person events, organizers will be identifiable and approachable. Pull one aside — this is exactly what we're here for.
+**Talk to a team member directly.** At in-person events, the team will be identifiable and approachable. Pull one aside — this is exactly what we're here for.
 
-**Send a message.** If you'd rather not report in person, reach out to the organizer team through our designated reporting channel. Details will be shared in onboarding materials and pinned in online spaces.
+**Send a message.** If you'd rather not report in person, reach out to any team member directly through community channels. A dedicated reporting channel and anonymous form are not built yet — until they are, any team member you contact will treat your report with the same seriousness this document describes.
 
-**Report anonymously.** We will maintain an anonymous reporting form so that anyone can flag a concern without attaching their name to it. Anonymity is respected — no exceptions.
+**Report anonymously.** An anonymous reporting form is planned but not yet built. Once it exists, anonymity will be respected with no exceptions — this section will be updated with a link when it's live.
 
 All reports will be taken seriously. You will not be penalized for raising a concern in good faith.
 
@@ -106,17 +106,19 @@ All reports will be taken seriously. You will not be penalized for raising a con
 
 ## Enforcement
 
-When a report is received, the organizer team will:
+When a report is received, the team will:
 
 **Acknowledge.** You'll hear back within 48 hours confirming that your report was received and is being reviewed.
 
-**Listen.** The organizer team will look into what happened and talk to the people involved. Both the person who reported and the person reported will have a chance to share their perspective.
+**Listen.** The team will look into what happened and talk to the people involved. Both the person who reported and the person reported will have a chance to share their perspective.
 
 **Respond.** What happens next depends on the situation. It might be a private conversation and a request to change behavior, a formal warning, a temporary step-back from spaces or events, or — in serious cases — permanent removal from the community. The response fits the situation.
 
 **Follow up.** We'll let you know the situation was addressed. We won't share private details about the other person, but you won't be left in the dark either.
 
-Organizers make the final call on enforcement. We'll always aim for fairness — but when fairness and safety are in tension, safety wins.
+The team makes the final call on enforcement. We'll always aim for fairness — but when fairness and safety are in tension, safety wins.
+
+**If the report is about a team member.** The team is three people today, so we say this plainly instead of leaving you to guess: the person a report is about is recused from every part of handling that report — listening, deciding, and communicating the outcome. If the report is about the Founder and Executive Director, the other team members handle it directly, without the Founder in the room for any part of the process. We don't yet have an outside party to escalate to if that's not enough — that gap closes once a board is seated (see [Governance](governance.md)). Until then, if you're not comfortable with this, tell us that directly and we'll work out another way to hear you.
 
 ---
 
