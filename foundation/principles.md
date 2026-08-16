@@ -3,7 +3,7 @@
 > **Status:** Draft — open for community input
 > **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** 2026-03-12
+> **Last Reviewed:** 2026-08-15
 > **Finalized:** —
 
 These are the principles that guide how PhilaCon Valley operates — how we show up, make decisions, and grow together.

@@ -3,22 +3,25 @@
 > **Status:** Draft — open for community input
 > **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** 2026-03-12
+> **Last Reviewed:** 2026-08-15
 > **Finalized:** —
 
-First — thank you for wanting to contribute. This handbook belongs to the community, and the best version of it is one that reflects many voices, not just the organizers'.
+First — thank you for wanting to contribute. This handbook belongs to the community, and the best version of it is one that reflects many voices, not just the team's.
 
-You don't need to be a developer to contribute. If you can read a document and have a thought about it, you can help.
+You don't need to be a developer to contribute, and you don't need a GitHub account either. If you can read a document and have a thought about it, you can help.
 
 ---
 
 ## Ways to Contribute
 
+### Not on GitHub? Say it in Discord.
+Most of this community lives in [Discord](https://discord.gg/5haHYh5xcx), not GitHub. If something in the handbook feels incomplete, unclear, or off, raise it there — in a resources or feedback channel, or directly with a team member. Someone on the team will turn it into a GitHub Issue if it needs one. You never have to touch Git to have a say in this document.
+
 ### Suggest a change to an existing document
-If something feels incomplete, unclear, or off — open a GitHub Issue and describe what you'd change and why. You don't need to write the replacement text yourself, though it helps.
+If you're comfortable with GitHub, open a GitHub Issue and describe what you'd change and why. You don't need to write the replacement text yourself, though it helps.
 
 ### Propose a new document or section
-If you think there's something missing from the handbook — a topic, a perspective, a document type — open an Issue and make the case for it. Good ideas are welcome regardless of where they come from.
+If you think there's something missing from the handbook — a topic, a perspective, a document type — open an Issue (or raise it in Discord) and make the case for it. Good ideas are welcome regardless of where they come from.
 
 ### Submit a pull request
 If you're comfortable with GitHub, you can fork the repository, make your changes, and open a pull request. Keep changes focused — one idea per PR makes it easier to review and discuss.
@@ -31,7 +34,7 @@ If you're comfortable with GitHub, you can fork the repository, make your change
 
 **Be specific.** Vague suggestions are hard to act on. If you think something is missing, say what it is. If something is wrong, say why.
 
-**Expect a conversation.** Contributions may be discussed before being merged. That's not a rejection — it's how we make sure changes reflect the community, not just one person's opinion.
+**Expect a conversation.** Contributions may be discussed before being merged. That's not a rejection — it's how we make sure changes reflect the community, not just one person's opinion. A small fix — a typo, a broken link, a clarifying sentence — usually just gets merged. A meaningful change to the handbook's direction — the mission, the values, the governance structure — follows the fuller Propose → Listen → Decide → Communicate process described in [Governance](governance/governance.md#how-decisions-get-made). Your Issue or PR is the "propose" step either way; the size of the change determines how much "listen" happens before a decision.
 
 **Respect the existing voice.** This doesn't mean you can't challenge ideas — you can and should. But changes should feel continuous with the values and tone already here, not like a departure from them.
 
@@ -48,4 +51,4 @@ Documents are marked with one of the following statuses at the top:
 
 ## Questions?
 
-Open an issue or reach out to the organizers. We're not precious about this — if something is confusing, we want to know.
+Open an issue or reach out to the team. We're not precious about this — if something is confusing, we want to know.
