@@ -9,7 +9,7 @@
 > **Last Reviewed:** 2026-08-15
 > **Finalized:** —
 
-PhilaCon Valley is a community for Black, Brown, LGBTQIA+, and underrepresented technologists in Philadelphia. We bring together engineers, designers, founders, and the tech-curious to learn, build, and belong together.
+PhilaCon Valley is a community for Black, Brown, LGBTQIA+, and underrepresented technologists in Philadelphia. We bring together engineers, designers, founders, artists, and the tech-curious to learn, build, and belong together.
 
 This handbook is the source of truth for our philosophy, values, and culture — written down so the community we're building today carries forward as we grow.
 

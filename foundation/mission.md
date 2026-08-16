@@ -8,7 +8,7 @@
 
 PhilaCon Valley exists to make Philadelphia the tech hub it's meant to be — built by us, for us.
 
-We are a community for Black, Brown, LGBTQIA+, and underrepresented technologists in Philly who want to learn, build, and belong together. Whether you're writing your first line of code, changing careers, or already deep in the industry, this is your space.
+We are a community for Black, Brown, LGBTQIA+, and underrepresented technologists in Philly who want to learn, build, and belong together. Whether you're writing your first line of code, designing your first interface, changing careers, or already deep in the industry, this is your space.
 
 We build real skills through real projects. We show up for each other. And we grow — not just as technologists, but as people.
 
