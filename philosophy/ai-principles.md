@@ -8,6 +8,8 @@
 
 AI is part of the landscape now. It's in our tools, our workflows, and increasingly in the products we create. At PhilaCon Valley, we don't shy away from it — but we don't center our identity on it either. AI is one of many things our members build with, think about, and learn from. It's part of the conversation, not the whole conversation.
 
+When we do build with AI, the skill we teach and practice is **agentic engineering** — using AI as a working partner inside a real build, not a one-off trick. We've run single workshops on narrower formats before (a "vibe coding" session, for instance) — those are fine as one-time explorations, but they're not what defines how we build here. Agentic engineering is the ongoing thing.
+
 These principles guide how we — both as individual builders and as a community organization — approach AI with intention, honesty, and care.
 
 ---

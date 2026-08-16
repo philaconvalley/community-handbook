@@ -15,7 +15,7 @@ You don't need to be a developer to contribute, and you don't need a GitHub acco
 ## Ways to Contribute
 
 ### Not on GitHub? Say it in Discord.
-Most of this community lives in [Discord](https://discord.gg/WvCB6yxWJD), not GitHub. If something in the handbook feels incomplete, unclear, or off, raise it there — in a resources or feedback channel, or directly with a team member. Someone on the team will turn it into a GitHub Issue if it needs one. You never have to touch Git to have a say in this document.
+Most of this community lives in [Discord](https://discord.gg/5haHYh5xcx), not GitHub. If something in the handbook feels incomplete, unclear, or off, raise it there — in a resources or feedback channel, or directly with a team member. Someone on the team will turn it into a GitHub Issue if it needs one. You never have to touch Git to have a say in this document.
 
 ### Suggest a change to an existing document
 If you're comfortable with GitHub, open a GitHub Issue and describe what you'd change and why. You don't need to write the replacement text yourself, though it helps.

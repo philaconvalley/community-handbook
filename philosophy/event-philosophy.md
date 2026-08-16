@@ -14,11 +14,13 @@ Our events are not networking nights. They are not pitch competitions or resume 
 
 We run a mix of event types because different moments call for different formats:
 
-- **Builder Nights** — Hands-on sessions. Pair programming, creative coding, open builds. You leave having made something.
-- **Vision Labs** — Space to think bigger. Discussions, lightning talks, idea-sharing around where we're headed and what we're building toward.
+- **PATCH** — Our flagship build night. One theme, one night, hands-on the whole time. You leave having made something and understanding how it works. Running since June 2026 (PATCH 001, PATCH 002, and counting).
 - **Workshops** — Focused skill-building with a clear goal. You come in not knowing something and leave knowing it.
+- **Vision Labs** — Space to think bigger. Discussions, lightning talks, idea-sharing around where we're headed and what we're building toward.
 - **Hackathons** — Longer sprints. Build something real with people you may have just met. Designed to produce both projects and relationships.
 - **The Giveback** — Events centered on returning value to the community — whether through mentorship, resource sharing, or celebrating each other.
+
+PATCH is proven — it's the format we run and keep running. Workshops, Vision Labs, Hackathons, and The Giveback are formats we're building toward. As each one runs for real, this list will say so.
 
 ## We keep it real.
 

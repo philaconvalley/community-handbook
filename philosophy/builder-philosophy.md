@@ -45,3 +45,11 @@ We're honest about why: client work funds the community. Workshops, venues, and 
 The two tracks ask different questions. Community work asks "what do we want to make?" Client work asks "what does this client need?" That's a real difference, not a small one — and we don't pretend otherwise. A client brief looks like waiting for permission, and in a narrow sense it is — but the builder's posture doesn't disappear inside it. Deciding how to solve the client's problem, pushing back when a shortcut would hurt the result, bringing craft to work nobody's watching closely — that's the same instinct that shows up in a hackathon, aimed at a different target. What doesn't change between the two tracks is the standard: craft over shortcuts, honesty about what AI did and didn't do, and care for the person the work is for — whether that person is a community member or a paying client.
 
 We hold client work to the same test the Partnerships principle sets for everything else: we choose who we work with based on fit with our values, not on who pays the most. If a client's ask runs against what this community stands for, we say no — the same way we would with a sponsor or a venue.
+
+## The line between the two tracks stays a line.
+
+Support flows one direction between the two arms: the agency can fund and back the nonprofit — sponsorship, in-kind work, revenue. The nonprofit never becomes a funnel for the agency. Coming to a workshop or a build night does not put you on a client list.
+
+In practice, that means three things. **We don't start the sales conversation.** If you ask whether the agency could build something for you, we'll answer honestly — but nobody raises it first inside community space. **Community members get no pricing advantage** for being community members; a discount would just turn free programming into a marketing cost for paid work, which is the exact thing we're avoiding. **When a conversation does cross from community to client work, we say so out loud** — "that's a different thing now, that's the agency side, here's what it costs" — instead of letting the shift happen quietly.
+
+This isn't a nice-to-have. It's what keeps "client work funds the community" true, instead of becoming "the community funds client work" without anyone noticing.

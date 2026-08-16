@@ -4,6 +4,19 @@ All notable changes to the PhilaCon Valley Community Handbook are documented her
 
 ---
 
+## [1.1.1] — 2026-08-15
+
+Two corrections found by comparing the handbook against how PhilaCon Valley actually operates.
+
+### Changed
+- `event-philosophy.md` — Replaced "Builder Nights" with **PATCH**, the name of the build-night series that has actually run twice (PATCH 001, PATCH 002) since June 2026. Marked Workshops, Vision Labs, Hackathons, and The Giveback as formats we're building toward rather than implying all five are already running.
+- `builder-philosophy.md` — Added "The line between the two tracks stays a line," naming the boundary rule that keeps nonprofit community programming from becoming a sales funnel for the agency arm: the nonprofit never starts the commercial conversation, community members get no pricing advantage, and a crossover from community to client work is said out loud instead of happening quietly.
+- `README.md`, `CONTRIBUTING.md` — Updated the Discord invite link (old one replaced with `discord.gg/5haHYh5xcx`) in all three places it appeared.
+- `foundation/vision.md` — Added, new document: "What We Believe," a full vision statement built entirely from language already used across the handbook (Mission, Principles, Community Values, Builder Philosophy, Event Philosophy, AI Principles) and the community's own comms (PATCH, "By us, for us"). Linked from README's Foundation section. Revised same day: swapped a borrowed Apple line for PhilaCon Valley's own ("building things that matter, with people we trust, in a city we love") and broadened the language from code-only to creative-technology — sound, visuals, brand, hardware — to match what PATCH 001, NFC Lab, and the design work actually are.
+- `ai-principles.md` — Named **agentic engineering** as the ongoing AI skill the community builds around, and noted that a "vibe coding" session was a one-time workshop format, not the community's identity.
+
+---
+
 ## [1.1.0] — 2026-08-15
 
 The handbook's structure layer updated to match how PhilaCon Valley actually operates five months after the 1.0.0 release. The values and philosophy layer (mission, principles, community values, AI principles, event philosophy) needed almost no change — it held up.
