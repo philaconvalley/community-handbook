@@ -4,6 +4,17 @@ All notable changes to the PhilaCon Valley Community Handbook are documented her
 
 ---
 
+## [1.2.0] — 2026-09-17
+
+The handbook takes a position on what happens to community content after it's captured. The consent norm already said "ask before you photograph or record"; it stopped there, and that gap became live when a partner conference asked for our assets and a photo/video release was being drafted without an AI clause in it.
+
+### Added
+- `ai-principles.md` — New section, **Your Content and AI**. States what PhilaCon Valley does with community material in AI tools. Written against an audit of actual practice rather than an intention: it says out loud that the org keeps RSVP and check-in records, that transcription runs through a third-party AI service, and that member records sit in systems an AI can read — because a draft claiming otherwise would have been false the day it shipped. The limits it does commit to are the ones that hold: member data is not sold or shared with third parties, member work and likeness are never handed to anyone as training material, and a member can ask what is held about them and have it deleted, and sets the standing rule for partners, venues, sponsors, and vendors: nobody may use PhilaCon Valley content, brand assets, event footage, or attendee media to train, fine-tune, or develop an AI model without written permission. Ordinary AI-assisted editing is explicitly out of scope, so the rule stays narrow enough to be kept. Restates the hand-drawn mascot rule that Brand Book Edition 1.1 carried and Edition 1.2 dropped. Adds a path for members to report content turning up where they didn't agree to it.
+
+### Changed
+- `ai-principles.md` — Last Reviewed date updated to 2026-09-17.
+
+---
 ## [1.1.1] — 2026-08-15
 
 Two corrections found by comparing the handbook against how PhilaCon Valley actually operates.
