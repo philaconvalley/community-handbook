@@ -3,7 +3,7 @@
 > **Status:** Draft — open for community input
 > **Authored by:** Waskar Paulino
 > **Reviewed by:** —
-> **Last Reviewed:** 2026-08-15
+> **Last Reviewed:** 2026-09-17
 > **Finalized:** —
 
 AI is part of the landscape now. It's in our tools, our workflows, and increasingly in the products we create. At PhilaCon Valley, we don't shy away from it — but we don't center our identity on it either. AI is one of many things our members build with, think about, and learn from. It's part of the conversation, not the whole conversation.
@@ -65,6 +65,40 @@ If you use AI to help create something you share in the community — a blog pos
 PhilaCon Valley uses AI in its own operations — communications, event planning, content drafting, and parts of this handbook. When we do, the final product is always reviewed and shaped by a human organizer. AI helps us move faster; it doesn't speak for us. The ideas, decisions, and voice come from the organizer team and the community.
 
 We hold ourselves to the same standard we ask of members. If you ever want to know whether something was AI-assisted, ask. We'll tell you.
+
+---
+
+## Your Content and AI
+
+Consent doesn't stop at the shutter. Our community guidelines say to ask before you photograph or record someone. This section says what happens to that recording afterward — because "you can take my picture" was never the same as "you can feed my face to a model."
+
+### What we do
+
+**We keep records.** RSVP lists, check-in data, the email you gave us when you signed up. That's how we know who's coming, who came back, and whether what we're building actually works. If you've been to a PhilaCon Valley event, we have a record of it.
+
+**We record our own working meetings, and the transcription runs through an AI service.** Team syncs, planning calls, partner conversations. Anyone in the room is told it's recording before it starts. We don't make a habit of recording community rooms — a workshop, a build night, a conversation you came to have with other members. On the rare occasion we would, we'll say so first and you can tell us no.
+
+**Our records sit in systems an AI can read.** We use AI tools on our own working material — notes, transcripts, drafts, planning documents — and our member records live alongside that work. We're telling you this rather than implying a separation that doesn't exist. A human organizer reviews anything that comes out of those tools before it goes anywhere.
+
+**We use what we know to run the community, not to profile you.** Who comes back, which formats land, who to invite next. We don't sell member data, we don't share it with third parties, and we don't build files on people to hand to anyone.
+
+**We don't hand your work or your likeness to anyone to train a model.** Not to a partner, not to a sponsor, not to a vendor, not to a platform. If your project, your photo, or your voice ends up in someone's training data, that's a decision you make, not one we make for you.
+
+**Ask and we'll tell you what we have about you. Ask us to delete it and we will.** Email an organizer. You don't need a reason.
+
+### What we ask of everyone else
+
+Partners, venues, sponsors, vendors, and event hosts work with our content all the time — logos, photos, footage, write-ups. The rule for them is simple, and we put it in writing:
+
+**Nobody may use PhilaCon Valley content, brand assets, event footage, or attendee media to train, fine-tune, or develop an AI model without our written permission.**
+
+That's a narrow ask, deliberately. Using AI to caption a video, clean up audio, or draft a social post is ordinary work and we're not policing it. Turning our community into training data is a different thing, and it needs a yes from us first.
+
+Our brand marks carry their own version of this rule: the mascot is hand-drawn, and it doesn't get AI-generated, traced, or rebuilt. What comes back is close to the mark, but it isn't the mark.
+
+### If something crosses the line
+
+Tell an organizer. If content of yours turns up somewhere you didn't agree to — a partner's AI-generated graphic, a dataset, a demo — we'll ask for it to be removed and we'll tell you what happened. You don't need to have proof to raise it.
 
 ---
 
