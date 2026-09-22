@@ -94,7 +94,7 @@ Partners, venues, sponsors, vendors, and event hosts work with our content all t
 
 That's a narrow ask, deliberately. Using AI to caption a video, clean up audio, or draft a social post is ordinary work and we're not policing it. Turning our community into training data is a different thing, and it needs a yes from us first.
 
-Our brand marks carry their own version of this rule: the mascot is hand-drawn, and it doesn't get AI-generated, traced, or rebuilt. What comes back is close to the mark, but it isn't the mark.
+Our brand marks carry their own version of this rule: the mascot, the wordmark, and the lettering they're built from are hand-drawn, and they don't get AI-generated, traced, or rebuilt. What comes back is close to the mark, but it isn't the mark. Working with the official files as they are — resizing one, dropping its background — is ordinary work, same as above.
 
 ### If something crosses the line
 

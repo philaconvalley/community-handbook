@@ -4,6 +4,15 @@ All notable changes to the PhilaCon Valley Community Handbook are documented her
 
 ---
 
+## [1.2.1] — 2026-09-22
+
+The brand book now quotes the AI Principles, so the mark rule has to cover every hand-drawn mark, not only the mascot.
+
+### Changed
+- `ai-principles.md` — The hand-drawn mark rule now names the wordmark and its lettering system alongside the mascot. All three come from the same hand-drawn source and drift the same way when AI rebuilds them. Added one sentence that keeps ordinary work with the official files (resizing, background removal) out of scope, matching how the section already treats captions and social drafts.
+
+---
+
 ## [1.2.0] — 2026-09-17
 
 The handbook takes a position on what happens to community content after it's captured. The consent norm already said "ask before you photograph or record"; it stopped there, and that gap became live when a partner conference asked for our assets and a photo/video release was being drafted without an AI clause in it.
