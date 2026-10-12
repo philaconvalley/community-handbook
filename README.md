@@ -22,6 +22,7 @@ This handbook is the source of truth for our philosophy, values, and culture —
 - [Mission](foundation/mission.md) — Why we exist and what we're working toward
 - [Principles](foundation/principles.md) — How we operate and make decisions
 - [Community Values](foundation/community-values.md) — What we believe and how we show up for each other
+- [Glossary](foundation/glossary.md) — The words this handbook uses, defined for anyone who's new
 
 ### Philosophy
 - [Builder Philosophy](philosophy/builder-philosophy.md) — What it means to be a builder at PhilaCon Valley

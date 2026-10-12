@@ -4,6 +4,18 @@ All notable changes to the PhilaCon Valley Community Handbook are documented her
 
 ---
 
+## [1.2.2] — 2026-10-12
+
+New members kept running into words the handbook uses without explaining them. This adds a glossary so nobody needs prior context to follow along. Closes #1.
+
+### Added
+- `foundation/glossary.md` — New document defining the community's terms (builder, PATCH, team vs. organizer, the two tracks, listen-then-lead, agentic engineering, and more), grouped by topic. Every definition links back to the passage it comes from. Nothing new is introduced. Structures that don't exist yet, like workgroups and the board, are labeled as not existing yet.
+
+### Changed
+- `README.md` — Linked the glossary from the Foundation section.
+
+---
+
 ## [1.2.1] — 2026-09-22
 
 The brand book now quotes the AI Principles, so the mark rule has to cover every hand-drawn mark, not only the mascot.
