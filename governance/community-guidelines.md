@@ -96,9 +96,23 @@ If you experience or witness behavior that violates these guidelines, we want to
 
 **Talk to a team member directly.** At in-person events, the team will be identifiable and approachable. Pull one aside — this is exactly what we're here for.
 
-**Send a message.** If you'd rather not report in person, reach out to any team member directly through community channels. A dedicated reporting channel and anonymous form are not built yet — until they are, any team member you contact will treat your report with the same seriousness this document describes.
+**Send a message.** If you'd rather not report in person, write to any team member directly, by email or a private Discord message. A dedicated reporting channel and anonymous form are not built yet — until they are, any team member you contact will treat your report with the same seriousness this document describes.
 
 **Report anonymously.** An anonymous reporting form is planned but not yet built. Once it exists, anonymity will be respected with no exceptions — this section will be updated with a link when it's live.
+
+### Reaching the team
+
+Each of us has our own address, so you choose who reads what you send.
+
+| Who | Role | Email |
+|---|---|---|
+| Waskar Paulino | Founder and Executive Director | waskar@philaconvalley.com |
+| Diego Mendoza | Product Design Lead | [ADDRESS NEEDED] |
+| Saige Sufrin | Brand Designer & Creative Director | [ADDRESS NEEDED] |
+
+**If your report is about one of us, write to the others.** You don't need to copy everyone, and you don't need to explain who you left out. The person a report is about is recused either way (see [Enforcement](#enforcement)). Writing only to the others just means they never see it in the first place.
+
+These addresses work for anything else you'd rather not raise in a public channel too, including asking what we hold about you or asking us to delete it (see [AI Principles](../philosophy/ai-principles.md#your-content-and-ai)).
 
 All reports will be taken seriously. You will not be penalized for raising a concern in good faith.
 

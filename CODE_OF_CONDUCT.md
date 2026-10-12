@@ -1,5 +1,11 @@
 # Code of Conduct
 
+> **Status:** Draft — open for community input
+> **Authored by:** Waskar Paulino
+> **Reviewed by:** —
+> **Last Reviewed:** 2026-08-15
+> **Finalized:** —
+
 ## Our Commitment
 
 PhilaCon Valley is a community for Black, Brown, LGBTQIA+, and underrepresented technologists in Philadelphia. We are committed to providing a welcoming, safe, and inclusive space for everyone — regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
@@ -28,7 +34,7 @@ This Code of Conduct applies in all PhilaCon Valley community spaces — GitHub,
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to any PhilaCon Valley team member — in person, through Discord, or by email at **waskar@philaconvalley.com**. You'll hear back within 48 hours confirming your report was received and is being reviewed. All complaints will be reviewed and investigated promptly and fairly, and the team respects the privacy and security of the reporter.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to any PhilaCon Valley team member, in person, through a private Discord message, or by email. Every team member's address is listed in [Community Guidelines](governance/community-guidelines.md#reaching-the-team). If your report is about one of them, write to the others. You'll hear back within 48 hours confirming your report was received and is being reviewed. All complaints will be reviewed and investigated promptly and fairly, and the team respects the privacy and security of the reporter.
 
 **If the report is about a team member**, that person is recused from every part of handling it — listening, deciding, and communicating the outcome. If the report is about the Founder and Executive Director, the other team members handle it directly, without the Founder involved in any part of the process.
 
