@@ -24,7 +24,7 @@ If you're comfortable with GitHub, open a GitHub Issue and describe what you'd c
 If you think there's something missing from the handbook — a topic, a perspective, a document type — open an Issue (or raise it in Discord) and make the case for it. Good ideas are welcome regardless of where they come from.
 
 ### Submit a pull request
-If you're comfortable with GitHub, you can fork the repository, make your changes, and open a pull request. Keep changes focused — one idea per PR makes it easier to review and discuss. When you open a PR, an automatic check looks for broken links and for names the handbook has retired (like "Builder Nights" or "Slack"). If it flags something, the message tells you what to use instead.
+If you're comfortable with GitHub, you can fork the repository, make your changes, and open a pull request. Keep changes focused — one idea per PR makes it easier to review and discuss. When you open a PR, an automatic check looks for broken links and for names the handbook has retired (like `Builder Nights` or `Slack`). If it flags something, the message tells you what to use instead.
 
 ---
 

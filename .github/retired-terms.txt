@@ -1,0 +1,15 @@
+# Names and phrases the handbook has retired, one per line:
+#   pattern | what to use instead
+# The separator is a pipe with a space on each side, so a pattern can still use
+# a bare | to mean "or".
+# Patterns are case-insensitive regular expressions. CHANGELOG.md is not
+# checked, because the history has to be able to say what things used to be
+# called. Text inside `backticks` is skipped too, so a document can still quote
+# an old name on purpose.
+
+\bBuilder Nights?\b | "PATCH" (renamed in 1.1.1)
+\bSlack\b | "Discord" (moved in 1.1.0)
+\borganizers\b | "team" or "team members". There's one organizer role, the Founder and Executive Director (1.1.0)
+\borganizer team\b | "the team" (1.1.0)
+\b(an|a human) organizer\b | "a team member" or "a human on the team" (1.1.0)
+\bthree-layer\b | "four-layer documentation model" (1.1.0)
