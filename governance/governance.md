@@ -155,3 +155,15 @@ Documents in this handbook are marked with one of the following statuses:
 **Active** — Reflects current community practice. Still open to revision through the contribution process, but changes should be well-considered and discussed before being adopted.
 
 Major changes to the handbook — especially to the mission, values, or governance structure — will be discussed with the broader community before being finalized, following the decision-making process described above.
+
+### Keeping the handbook current
+
+Some of what this handbook says is a snapshot: how many PATCH nights have run, how many people are on the team, how many clients the agency has, which event formats are running and which are still planned, and how to reach us. Snapshots go stale quietly. Nobody decides to make them wrong. They just stop being true.
+
+So once a quarter, in January, April, July, and October, the Founder and Executive Director runs a fact-check pass:
+
+- Read every document and check each claim about the present against how things actually are.
+- Fix whatever has drifted, and log it in the [CHANGELOG](../CHANGELOG.md).
+- Update **Last Reviewed** only on documents that were actually checked. That date is a promise that someone looked, not a record of the last edit.
+
+This is a fact-check, not a rewrite. Changing what the handbook believes still goes through the decision-making process above. As a backstop, an automatic check on every pull request flags any document whose Last Reviewed date is more than four months old, so a missed quarter doesn't go unnoticed.
