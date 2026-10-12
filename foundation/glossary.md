@@ -102,8 +102,10 @@ If a word is missing or a definition doesn't match how people actually use it, s
 
 ## About This Handbook
 
-**Draft / Active** — The two statuses a handbook document can have. Draft means it's still open for input and expected to change. Active means it reflects current practice, and changes to it should be well considered. See [CONTRIBUTING.md](../CONTRIBUTING.md#document-status).
+**Draft / Active** — The two statuses a handbook document can have. Draft means it's still open for input and expected to change. Active means it reflects current practice, and changes to it should be well considered. See [Governance](../governance/governance.md#document-status).
 
 **Four-layer documentation model** — Where PhilaCon Valley information lives. GitHub (this handbook) holds what we believe. Discord is where conversation happens. Google Drive holds internal working documents. The website holds public storytelling. See [README](../README.md#where-documentation-lives).
+
+**Last Reviewed** — The date at the top of each document showing when someone last checked it against how things actually are. It isn't the date of the last edit. The handbook gets a fact-check every quarter. See [Governance](../governance/governance.md#keeping-the-handbook-current).
 
 **Source of truth** — The place that wins when two sources disagree. For philosophy, values, principles, and governance, that's this handbook.

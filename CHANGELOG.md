@@ -4,6 +4,34 @@ All notable changes to the PhilaCon Valley Community Handbook are documented her
 
 ---
 
+## [1.3.0] — 2026-10-12
+
+Making the handbook harder to drift out of date, and making sure everyone has a safe way to reach the team. Minor version because Governance now sets a new process, the quarterly fact-check.
+
+### Added
+- `governance.md` — New subsection, **Keeping the handbook current**. Once a quarter (January, April, July, October), the Founder and Executive Director checks every claim about the present, such as PATCH counts, team size, client count, which formats are running, and how to reach us, against how things actually are. **Last Reviewed** now means someone actually checked the document, not that it was edited.
+- `community-guidelines.md` — New subsection, **Reaching the team**, listing one email address per team member. If a report is about one of them, the reporter writes to the others. Before this, the only published address was the Founder's, so a report about the Founder had no private email path even though the recusal rule requires one.
+- Automatic handbook check on every pull request (`.github/workflows/handbook-checks.yml`). It fails on broken internal links, on retired terms listed in `.github/retired-terms.txt`, and on unfilled placeholders. It warns when a document hasn't been reviewed in four months. Run against the handbook before 1.2.3, it reports all six problems that release fixed by hand.
+- Issue page links (`.github/ISSUE_TEMPLATE/config.yml`) pointing non-GitHub members to Discord, and steering conduct reports away from public issues to the private contact list.
+
+### Changed
+- `CODE_OF_CONDUCT.md` — Added the status header every other document has. Its enforcement section now points to the contact list in Community Guidelines instead of naming only the Founder's address.
+- `ai-principles.md` — "Email any team member" now links to the contact list.
+- `CONTRIBUTING.md` — Document Status now links to Governance instead of keeping a second copy of the definitions, the same single-source approach 1.1.0 used for the reporting process. Mentions the automatic check, so contributors know what a flag means.
+- `glossary.md` — Added **Last Reviewed**, and pointed **Draft / Active** at Governance.
+
+---
+
+## [1.2.3] — 2026-10-12
+
+Two places where the handbook had drifted out of step with itself. The glossary work turned them up.
+
+### Changed
+- `ai-principles.md` — Replaced "organizer" with "team" and "team member" in all five places it appeared, following the terminology split `governance.md` set in 1.1.0. "Organizer" names the Founder and Executive Director's role specifically. These sentences mean anyone on the team, so "email an organizer" no longer reads as "email the Founder." `community-guidelines.md`, `CODE_OF_CONDUCT.md`, and `CONTRIBUTING.md` were brought in line in 1.1.0; this section was written afterward and slipped back into the old usage.
+- `governance.md` — Replaced "Builder Nights" with "PATCH build nights" in the description of the nonprofit arm. 1.1.1 made this rename in `event-philosophy.md` but missed this mention.
+
+---
+
 ## [1.2.2] — 2026-10-12
 
 New members kept running into words the handbook uses without explaining them. This adds a glossary so nobody needs prior context to follow along. Closes #1.
