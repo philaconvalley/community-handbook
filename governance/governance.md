@@ -18,7 +18,7 @@ PhilaCon Valley operates as two connected legal entities, built to serve two dif
 
 **PhilaCon Valley, LLC** is the agency arm. It packages proven community content into paid client work for outside businesses.
 
-**PhilaCon Valley, Inc.** is the nonprofit arm (formation in progress). It runs the community-facing programs — Builder Nights, workshops, hackathons, and the R&D lab where new ideas get tested before the LLC turns them into packaged offerings for clients.
+**PhilaCon Valley, Inc.** is the nonprofit arm (formation in progress). It runs the community-facing programs — PATCH build nights, workshops, hackathons, and the R&D lab where new ideas get tested before the LLC turns them into packaged offerings for clients.
 
 The two entities share a mission and a name, but serve different purposes: the nonprofit exists to build the community; the LLC exists to sustain it financially and prove out what the community builds. See [Builder Philosophy](../philosophy/builder-philosophy.md) for how both kinds of work fit under one idea of what a "builder" is.
 

@@ -4,6 +4,16 @@ All notable changes to the PhilaCon Valley Community Handbook are documented her
 
 ---
 
+## [1.2.3] — 2026-10-12
+
+Two places where the handbook had drifted out of step with itself. The glossary work turned them up.
+
+### Changed
+- `ai-principles.md` — Replaced "organizer" with "team" and "team member" in all five places it appeared, following the terminology split `governance.md` set in 1.1.0. "Organizer" names the Founder and Executive Director's role specifically. These sentences mean anyone on the team, so "email an organizer" no longer reads as "email the Founder." `community-guidelines.md`, `CODE_OF_CONDUCT.md`, and `CONTRIBUTING.md` were brought in line in 1.1.0; this section was written afterward and slipped back into the old usage.
+- `governance.md` — Replaced "Builder Nights" with "PATCH build nights" in the description of the nonprofit arm. 1.1.1 made this rename in `event-philosophy.md` but missed this mention.
+
+---
+
 ## [1.2.2] — 2026-10-12
 
 New members kept running into words the handbook uses without explaining them. This adds a glossary so nobody needs prior context to follow along. Closes #1.
