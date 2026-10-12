@@ -62,7 +62,7 @@ If you use AI to help create something you share in the community — a blog pos
 
 ### For the community itself
 
-PhilaCon Valley uses AI in its own operations — communications, event planning, content drafting, and parts of this handbook. When we do, the final product is always reviewed and shaped by a human organizer. AI helps us move faster; it doesn't speak for us. The ideas, decisions, and voice come from the organizer team and the community.
+PhilaCon Valley uses AI in its own operations — communications, event planning, content drafting, and parts of this handbook. When we do, the final product is always reviewed and shaped by a human on the team. AI helps us move faster; it doesn't speak for us. The ideas, decisions, and voice come from the team and the community.
 
 We hold ourselves to the same standard we ask of members. If you ever want to know whether something was AI-assisted, ask. We'll tell you.
 
@@ -78,13 +78,13 @@ Consent doesn't stop at the shutter. Our community guidelines say to ask before 
 
 **We record our own working meetings, and the transcription runs through an AI service.** Team syncs, planning calls, partner conversations. Anyone in the room is told it's recording before it starts. We don't make a habit of recording community rooms — a workshop, a build night, a conversation you came to have with other members. On the rare occasion we would, we'll say so first and you can tell us no.
 
-**Our records sit in systems an AI can read.** We use AI tools on our own working material — notes, transcripts, drafts, planning documents — and our member records live alongside that work. We're telling you this rather than implying a separation that doesn't exist. A human organizer reviews anything that comes out of those tools before it goes anywhere.
+**Our records sit in systems an AI can read.** We use AI tools on our own working material — notes, transcripts, drafts, planning documents — and our member records live alongside that work. We're telling you this rather than implying a separation that doesn't exist. A human on the team reviews anything that comes out of those tools before it goes anywhere.
 
 **We use what we know to run the community, not to profile you.** Who comes back, which formats land, who to invite next. We don't sell member data, we don't share it with third parties, and we don't build files on people to hand to anyone.
 
 **We don't hand your work or your likeness to anyone to train a model.** Not to a partner, not to a sponsor, not to a vendor, not to a platform. If your project, your photo, or your voice ends up in someone's training data, that's a decision you make, not one we make for you.
 
-**Ask and we'll tell you what we have about you. Ask us to delete it and we will.** Email an organizer. You don't need a reason.
+**Ask and we'll tell you what we have about you. Ask us to delete it and we will.** Email any team member. You don't need a reason.
 
 ### What we ask of everyone else
 
@@ -98,7 +98,7 @@ Our brand marks carry their own version of this rule: the mascot, the wordmark, 
 
 ### If something crosses the line
 
-Tell an organizer. If content of yours turns up somewhere you didn't agree to — a partner's AI-generated graphic, a dataset, a demo — we'll ask for it to be removed and we'll tell you what happened. You don't need to have proof to raise it.
+Tell any team member. If content of yours turns up somewhere you didn't agree to — a partner's AI-generated graphic, a dataset, a demo — we'll ask for it to be removed and we'll tell you what happened. You don't need to have proof to raise it.
 
 ---
 
