@@ -84,7 +84,7 @@ Consent doesn't stop at the shutter. Our community guidelines say to ask before 
 
 **We don't hand your work or your likeness to anyone to train a model.** Not to a partner, not to a sponsor, not to a vendor, not to a platform. If your project, your photo, or your voice ends up in someone's training data, that's a decision you make, not one we make for you.
 
-**Ask and we'll tell you what we have about you. Ask us to delete it and we will.** Email any team member. You don't need a reason.
+**Ask and we'll tell you what we have about you. Ask us to delete it and we will.** Email any team member. Addresses are in [Community Guidelines](../governance/community-guidelines.md#reaching-the-team). You don't need a reason.
 
 ### What we ask of everyone else
 

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Not on GitHub? Say it in Discord
+    url: https://discord.gg/5haHYh5xcx
+    about: Most of the community lives in Discord. Raise a handbook idea there and someone on the team will turn it into an issue if it needs one.
+  - name: Report a conduct concern privately
+    url: https://github.com/philaconvalley/community-handbook/blob/main/governance/community-guidelines.md#reaching-the-team
+    about: Please don't open a public issue for this. Write to a team member directly, and if the report is about one of us, write to the others.
